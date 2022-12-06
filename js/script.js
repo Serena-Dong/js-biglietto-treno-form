@@ -8,13 +8,16 @@
 
 // Preparo l'elemento che deve essere riempito
 const placeholder = document.getElementById('amount');
+const element = document.getElementById('age');
+const element = document.getElementById('distance');
+const element = document.getElementById('button');
 
 
-// Chiedo all'utente l'età
+/* Chiedo all'utente l'età
 const age = prompt('Quanti anni hai?');
 
 // Chiedo all'utente la quantità dei chiolometri che vuole percorrere
-const distance = prompt('Quanti chilometri vuole percorrere?');
+const distance = prompt('Quanti chilometri vuole percorrere?'); */
 
 // Dati
 const ticket = 0.21
